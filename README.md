@@ -1,5 +1,7 @@
 <h2>O que é a Wegnology?</h2>
-
+<p align="center">
+  <img src="img/weg.png" width="400"/>
+</p>
 <p><i><strong>Wegnology</strong> (anteriormente conhecida como <em>Losant</em>) é uma plataforma de <strong>Internet das Coisas (IoT)</strong> baseada na nuvem, projetada para facilitar o desenvolvimento, o gerenciamento e a implementação de soluções IoT escaláveis. Ela é voltada para empresas e desenvolvedores que desejam conectar dispositivos físicos à internet, coletar dados em tempo real e construir aplicações inteligentes.<i></i></p>
 
 <p>A <strong>Wegnology</strong> é uma <strong>plataforma de IoT low-code</strong> que permite criar soluções complexas sem precisar escrever muito código. Ela oferece uma infraestrutura pronta para conectar dispositivos, processar dados, criar painéis de visualização e automatizar ações com base em eventos.</p>
