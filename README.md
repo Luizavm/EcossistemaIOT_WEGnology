@@ -31,6 +31,7 @@
 <ul>
   <li>Conta gratuita na <a href="https://app.wnology.io/" target="_blank">Wegnology (Losant)</a></li>
   <li>ESP32 com suporte a Wi-Fi</li>
+  <li>Tag e leitor NFC</li>
   <li>Arduino IDE com bibliotecas:
     <ul>
       <li><code>WiFi.h</code></li>
