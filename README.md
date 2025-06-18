@@ -23,8 +23,6 @@
   <li>Criar um workflow que lê uma <strong>tag NFC</strong> e envia comando MQTT para <strong>ligar/desligar um LED</strong> em uma ESP32</li>
 </ul>
 
-<p>Esse guia é útil para projetos de <strong>automação com ESP32 e IoT</strong>, e já está adaptado ao seu código.</p>
-
 <hr>
 
 <h2>1. Pré-requisitos</h2>
@@ -44,7 +42,7 @@
 
 <hr>
 
-<h2>2. Criando/Clonando um Dispositivo</h2>
+<h2>2. Criando um Dispositivo</h2>
 <ol>
   <li>Acesse <a href="https://app.wnology.io">app.wnology.io</a></li>
   <li>Clique em <strong>"Devices" > "+ Add Device"</strong></li>
@@ -218,6 +216,10 @@ void callback(char* topic, byte* payload, unsigned int length) {
 <hr>
 
 <h2>7. <strong>Montagem Física do Projeto com ESP32 + LED + NFC</strong></h2>
+
+<p align="center">
+  <img src="img/esp32.jpg" width="400"/>
+</p>
 
 <h3>Materiais necessários:</h3>
 
